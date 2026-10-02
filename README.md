@@ -1,5 +1,5 @@
 ヾ(^_^)
-Hi guys. I go by many names, but you can call me tenkeyful, or TKF.
+Hi guys.
 
 Unlike other developers and programmers, I don't wear many hats. I'm just a hobbyist in programming languages specifically and software/OS generally.
 
