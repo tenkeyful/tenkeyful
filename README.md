@@ -1,7 +1,7 @@
 ヾ(^_^)
 Hi guys.
 
-Unlike other developers and programmers, I don't wear many hats. I'm just a hobbyist in programming languages specifically and software/OS generally.
+Unlike other developers and programmers, I don't wear many hats. I'm just a hobbyist in scripting languages specifically and software/OS generally.
 
 I have one and only one goal: to make projects in order to make my life (and others who use my projects) easier and less of a nuisance.
 
