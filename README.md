@@ -1,5 +1,5 @@
 ヾ(^_^)
-Hi guys.
+Hi guys. I go by many names, but you can either refer to me as tenkeyful or Nhân (my Vietnamese name).
 
 Unlike other developers and programmers, I don't wear many hats. I'm just a hobbyist in scripting languages specifically and software/OS generally.
 
