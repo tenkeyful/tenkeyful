@@ -11,3 +11,4 @@ I need a platform to host my knowledge base that I can revisit easily. ~I've tho
 | [<img src="https://companieslogo.com/img/orig/TXN-e197f953.png?t=1720244494" width="15"/>](https://github.com/tenkeyful/ti84plusce) [TI-84 Plus CE](https://github.com/tenkeyful/ti84plusce) | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="15"/>](https://github.com/tenkeyful/python) [Python](https://github.com/tenkeyful/python) | [<img src="https://luau.org/images/meowluau.png" width="15"/>](https://github.com/tenkeyful/rblxstudio) [Luau](https://github.com/tenkeyful/rblxstudio) |
 
 Update October 2026: i just launched a blog using Astro and im slowly working on it
+> https://bienpensant.com/
